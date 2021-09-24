@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Git test merge --no-ff.
 Git test commit no msg.
+Git test commit -a.
