@@ -7,4 +7,4 @@ Git test merge --no-ff.
 Git test commit no msg.
 Git test commit -a.
 Git branch dev dosomething...
-
+Git add remote gitlab.
